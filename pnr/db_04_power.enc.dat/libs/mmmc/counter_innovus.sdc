@@ -1,0 +1,1 @@
+/home/krishang/counter/synth/outputs/counter_innovus.sdc
